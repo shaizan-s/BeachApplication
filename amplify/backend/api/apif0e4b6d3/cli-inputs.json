@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "beachnew525e2ddd",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
